@@ -1,3 +1,7 @@
+/* Alison Cameron and Adam Nik
+Carleton College
+March 2020*/
+
 /* We simulated malloc and free calls within the structure
  * of the heap by an explicit free list, implemented through
  * a doubly linked list. Each block of memory contains a header
